@@ -25,19 +25,19 @@ public class MainActivity extends AppCompatActivity {
 
         mPersona = new ArrayList<Persona>();
         mPersona.add(new Persona("Ismael Garzon", "Coordinador Atencion Directa",
-                "635752363", "ismael@gorabide.com", R.drawable.family_father));
+                "000000000", "ismael@gorabide.com", R.drawable.family_father));
         mPersona.add(new Persona("Sonia Tocino", "Coordinador Atencion Directa",
-                "650657810", "soniat@gorabide.com", R.drawable.family_mother));
+                "000000000", "soniat@gorabide.com", R.drawable.family_mother));
         mPersona.add(new Persona("Saioa Madrid", "Coordinador Atencion Directa",
-                "652730157", "saioamadrid@gorabide.com", R.drawable.family_mother));
+                "000000000", "saioamadrid@gorabide.com", R.drawable.family_mother));
         mPersona.add(new Persona("Amaia Vidal", "Coordinador Fisioterapia",
-                "635752363", "amaiavidal@gorabide.com", R.drawable.family_mother));
+                "000000000", "amaiavidal@gorabide.com", R.drawable.family_mother));
         mPersona.add(new Persona("Josean Llaguno", "Director Residencia",
-                "609977230", "joseanllaguno@gorabide.com", R.drawable.family_father));
+                "000000000", "joseanllaguno@gorabide.com", R.drawable.family_father));
         mPersona.add(new Persona("Mariano Puente", "Responsable Servicios Auxiliares",
-                "670344553", "marianopuente@gorabide.com", R.drawable.family_father));
+                "000000000", "marianopuente@gorabide.com", R.drawable.family_father));
         mPersona.add(new Persona("Mireia del Rio", "Coordinador Salud",
-                "616030388", "mireiadelrio@gorabide.com", R.drawable.family_mother));
+                "000000000", "mireiadelrio@gorabide.com", R.drawable.family_mother));
 
         mRecyclerView.setHasFixedSize(true);
 
